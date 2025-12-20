@@ -1,5 +1,6 @@
-# Proyecto de mi Portafolio
+# proyecto de mi portafolio
 
 Lorem Ipsum ...
 
-Azul de la empresa:2342
+
+About me es una nueva pagina
